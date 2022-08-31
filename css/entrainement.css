@@ -1,0 +1,34 @@
+body{
+	background-color: rgb(103, 190, 75);
+}
+/*Design de formulaire*/
+#formulaire{
+	background-color: white;
+	width: 500px;
+	margin: auto;  /* marge avant et centré le bloque*/
+	margin-top: 150px;  /* faire descendre le bloque*/
+}
+#formulaire h2{
+	text-align: center;
+	padding-top: 50px;
+	font-family: cursive,verdana,tahoma,Arial;
+}
+#formulaire label{
+	font-weight: bold;/* maitre en gras*/
+	padding: 10px;
+	font-size: 20px;
+
+}
+#formulaire input{
+	margin:0 10px;
+	padding: 10px;
+	width: 450px;
+}
+#formulaire button{
+	background-color: rgb(103, 190, 75);
+	margin: 0 10px 10px 10px; /*Les marges*/
+	width: 475px;
+	color: #FFF;
+	padding: 10px;
+	text-transform: uppercase;
+}
